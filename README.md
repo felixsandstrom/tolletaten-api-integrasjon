@@ -125,8 +125,8 @@ Tollavgift (TALL):
 ## Forfatter | Author
 **Norwegian:** **Felix Sandström**  
 Spesialist i Data Integrasjon og Automatisering.  
-For spørsmål, kontakt meg på [kontakt@felixwebutvikling.no].  
+For spørsmål, kontakt meg på [info@felixwebutvikling.no].  
 
 **English:** **Felix Sandström**  
 Specialist in Data Integration and Automation.  
-For inquiries, contact me at [kontakt@felixwebutvikling.no].
+For inquiries, contact me at [info@felixwebutvikling.no].
